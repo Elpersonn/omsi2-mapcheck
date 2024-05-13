@@ -1,0 +1,11 @@
+[package]
+name = "mapchecker"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eframe = "^0.23"
+rfd = "^0.12.1"
+utf16_reader = "0.1.0"
