@@ -9,4 +9,4 @@ This is a program which, when given a valid OMSI 2 map directory will check all 
 3. Enter a valid OMSI 2 map directory e.g. maps/London
 4. Press start
 5. Wait
-6. If start become clickable again and nothing was printed out, the map *should* be fine
+6. If start becomes clickable again and nothing was printed out, the map *should* be fine
